@@ -1,0 +1,16 @@
+header{
+  height: 2000px;
+  background-color: aqua;
+  font-size: 50px;
+  text-align: center;
+  color: #FFF;
+  }
+  
+  li{
+  list-style: none;
+  }
+  
+  .photos{
+    display: flex;
+    justify-content: space-around;
+  }
